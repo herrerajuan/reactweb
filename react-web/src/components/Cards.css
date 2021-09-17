@@ -45,7 +45,7 @@
   }
   
   .cards__item__pic-wrap {
-    background: url('/Users/jaherreraconde/Documents/pruebas/reactweb/react-web/src/images/img-4.jpg');
+    background: url('../images/img-4.jpg');
     position: relative;
     width: 100%;
     padding-top: 67%;
