@@ -7,6 +7,8 @@ Install node.js
 
 Check node version: node -v
 
+cd react-web
+
 npm start
 
 
